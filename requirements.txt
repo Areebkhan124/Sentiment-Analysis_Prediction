@@ -1,0 +1,9 @@
+streamlit
+scikit-learn
+pandas
+numpy
+nltk
+beautifulsoup4
+joblib
+matplotlib
+wordcloud
